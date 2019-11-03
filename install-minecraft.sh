@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 sudo adduser --disabled-password --gecos "" minecraft
 sudo apt-get update
 sudo apt-get -y install openjdk-8-jre-headless
